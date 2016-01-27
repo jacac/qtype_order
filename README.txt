@@ -1,3 +1,14 @@
+----------------------
+Converter
+----------------------
+This version only converts the qtype_order question type to the qtype_ordering.
+It should not be installed unless the desire is to move all order question to the ordering.
+
+This converter is not tested heavily. Use at your own risk. Make backups!!!
+
+ 
+
+
 Ordering Question
 -----------------
 
